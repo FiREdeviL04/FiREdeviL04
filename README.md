@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on For now nothing
-- 📫 How to reach me mail me (dhwanitsal@gmail.com)
+- 📫 How to reach me mail me (dhwanitmistry0@gmail.com)
 
 <!---
 FiREdeviL04/FiREdeviL04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
